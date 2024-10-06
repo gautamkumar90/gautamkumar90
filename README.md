@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡Currently completing Data Structures and Algorithms in Java.<br>💻Proficient in Core Computer Science Fundamentals.<br>📱Currently learning and building App Development projects using Flutter and Dart<br>
+💡Currently completing Data Structures and Algorithms in Java.<br>💻Proficient in Core Computer Science Fundamentals.<br>📱Currently learning and building App Development projects using Flutter and Dart.<br>🖥️Completed two Web Development projects using HMTL, CSS and JavaScript.<br>
 
 
 ## 🌐 Socials:
